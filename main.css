@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff;
+    background-image: url("./imgm/mihajlo-pupin-640x427.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+
+}
+
+header {
+    background-color: #29292971;
+    width: auto;
+    padding: 100px;
+    margin: 50px auto;
+    color: #fff;
+    text-align: center;
+    font-size: larger;
+}
+
+.navi {
+    margin: 30px;
+    padding: 0;
+    text-align: center;
+}
+
+.navi li {
+    list-style: none;
+    display: inline;
+}
+
+.navi li a {
+    color: #fff;
+    padding: 15px 80px;
+    transition: .3s ease;
+    border-radius: 5px;
+}
+
+.navi li a:hover {
+    background-color: #999;
+
+}
+
+.box-1 {
+    float: left;
+    width: 31%;
+    height: 500px;
+    margin: 10px;
+    color: #000000;
+    text-align: center;
+    font-size: larger;
+    border-radius: 5px;
+    overflow: auto;
+    background-image: url("./imgm/1491282_mihajlopupin_ff.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* .box-1 {
+    background-image: url("./imgm/1491282_mihajlopupin_ff.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+
+.box-1 h3 {
+    padding: 20px;
+    background-color: #ffffff42;
+}
+
+
+.box-2 {
+    float: left;
+    width: 31%;
+    height: 500px;
+    margin: 10px;
+    color: #000000;
+    text-align: center;
+    font-size: larger;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+.box-2 h3 {
+    padding: 20px;
+    background-color: #ffffff42;
+}
+
+.box-2 {
+    background-image: url("/imgm/Screen-Shot-2018-01-16-at-01.57.34-e1516582803521-580x585.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box-3 {
+    float: right;
+    width: 31%;
+    height: 500px;
+    margin: 10px;
+    color: #000000;
+    text-align: center;
+    font-size: larger;
+    border-radius: 5px;
+    overflow: auto;
+
+}
+
+.box-3 {
+    background-image: url("/imgm/Sta-je-Mihajlo-Pupin-izumeo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box-3 h3 {
+    padding: 20px;
+    background-color: #ffffff42;
+}
+
+.p {
+    background-color: #ffffff42;
+}
+
+footer {
+    width: auto;
+    height: 20px;
+    padding: 50px;
+    color: #fff;
+    clear: both;
+    text-align: center;
+}

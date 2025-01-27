@@ -6,7 +6,7 @@
 
 body {
     background-color: #fff;
-    background-image: url("./imgm/mihajlo-pupin-640x427.jpg");
+    background-image: url("./img/mihajlo-pupin-640x427.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -63,14 +63,15 @@ header {
     font-size: larger;
     border-radius: 5px;
     overflow: auto;
-    background-image: url("./imgm/1491282_mihajlopupin_ff.jpg");
+    background-image: url("./img/1491282_mihajlopupin_ff.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 /* .box-1 {
-    background-image: url("./imgm/1491282_mihajlopupin_ff.jpg");
+    background-image: url("./img
+/1491282_mihajlopupin_ff.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -86,7 +87,7 @@ header {
     float: left;
     width: 31%;
     height: 500px;
-    margin: 10px;
+    margin: 10px 0px 10px 2%;
     color: #000000;
     text-align: center;
     font-size: larger;
@@ -100,7 +101,7 @@ header {
 }
 
 .box-2 {
-    background-image: url("/imgm/Screen-Shot-2018-01-16-at-01.57.34-e1516582803521-580x585.jpg.webp");
+    background-image: url("/img/Screen-Shot-2018-01-16-at-01.57.34-e1516582803521-580x585.jpg.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -120,7 +121,7 @@ header {
 }
 
 .box-3 {
-    background-image: url("/imgm/Sta-je-Mihajlo-Pupin-izumeo.jpg");
+    background-image: url("/img/Sta-je-Mihajlo-Pupin-izumeo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

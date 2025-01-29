@@ -1,3 +1,75 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff;
+    background-image: url("/img/1491282_mihajlopupin_ff.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+header {
+    background-color: #29292971;
+    text-align: center;
+    width: auto;
+    padding: 100px;
+    margin: 50px auto;
+    color: #fff;
+    font-size: larger;
+
+}
+
+main {
+    background-color: #29292971;
+    color: #fff;
+    height: 600px;
+    width: 65%;
+    margin-left: 20px;
+    padding: 10px;
+    padding-top: 20px;
+    text-align: center;
+    float: left;
+    overflow: auto;
+    border-radius: 5px;
+}
+
+aside {
+    height: 600px;
+    width: 30%;
+    margin-right: 20px;
+    background-color: #29292971;
+    color: #fff;
+    padding: 10px;
+    float: right;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+.naslov {
+    text-align: center;
+    padding: 10px;
+}
+
+.carear {
+    text-align: center;
+    padding-top: 10px;
+}
+
+footer {
+    width: auto;
+    height: 20px;
+    padding: 50px;
+    color: #fff;
+    clear: both;
+    text-align: center;
 }

@@ -1,3 +1,132 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    background-color: aliceblue;
+    background-color: #fff;
+    background-image: url("/img/Screen-Shot-2018-01-16-at-01.57.34-e1516582803521-580x585.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+header {
+    background-color: #29292971;
+    width: auto;
+    padding: 100px;
+    margin: 50px auto;
+    color: #fff;
+    font-size: larger;
+    border-style: solid;
+}
+
+main {
+    background-color: #29292971;
+    height: 600px;
+    width: 60%;
+    margin-left: 20px;
+    padding: 10px;
+    padding-top: 20px;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    border-style: solid;
+    float: left;
+}
+
+h4 {
+    list-style: none;
+    display: block;
+    padding-bottom: 15px;
+}
+
+.box-1 {
+    background-color: #75737371;
+    width: auto;
+    height: 100px;
+    padding-top: 15px;
+    margin: 10px;
+}
+
+.btn-1 {
+    background-color: #fff;
+    border: none;
+    font-size: 15px;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .5s ease;
+}
+
+.btn-1:hover {
+    background-color: grey;
+}
+
+.box-2 {
+    background-color: #75737371;
+    width: auto;
+    height: 100px;
+    padding-top: 15px;
+    margin: 10px;
+}
+
+.box-3 {
+    background-color: #75737371;
+    width: auto;
+    height: 100px;
+    padding-top: 15px;
+    margin: 10px;
+}
+
+.box-4 {
+    background-color: #75737371;
+    width: auto;
+    height: 100px;
+    padding-top: 15px;
+    margin: 10px;
+}
+
+aside {
+    height: 600px;
+    width: 30%;
+    margin-right: 20px;
+    background-image: url("/img/pupin-cover..jpg");
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 20px;
+    float: right;
+    border-radius: 5px;
+    border-style: solid;
+    text-align: center;
+    overflow: auto;
+}
+
+aside h2 {
+    background-color: #29292971;
+
+}
+
+aside p {
+    background-color: #29292971;
+}
+
+
+footer {
+    width: auto;
+    height: 20px;
+    padding: 50px;
+    color: #fff;
+    clear: both;
+    text-align: center;
+    clear: both;
 }

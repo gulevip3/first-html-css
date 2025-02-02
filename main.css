@@ -26,6 +26,8 @@ header {
     color: #fff;
     text-align: center;
     font-size: larger;
+    border-style: solid;
+    border-color: #000000;
 }
 
 .navi {
@@ -60,6 +62,7 @@ header {
     text-align: center;
     font-size: larger;
     border-radius: 5px;
+    border-style: solid;
     overflow: auto;
     background-image: url("./img/1491282_mihajlopupin_ff.jpg");
     background-repeat: no-repeat;
@@ -90,6 +93,7 @@ header {
     text-align: center;
     font-size: larger;
     border-radius: 5px;
+    border-style: solid;
     overflow: auto;
 }
 
@@ -114,6 +118,7 @@ header {
     text-align: center;
     font-size: larger;
     border-radius: 5px;
+    border-style: solid;
     overflow: auto;
 
 }
